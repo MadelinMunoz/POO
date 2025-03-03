@@ -1,1 +1,1 @@
-Proyecto persona con Programacion orientada a objetos
+Proyecto Persona con Programacion Orientada a Objetos
